@@ -1,8 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
-Link Figma : https://www.figma.com/file/tnbMqn5eW9wtGzg9VYqv60/Landing-Page---Bananas-(Food)-(Community)?node-id=1%3A3&t=eYbxN4uQ9R71O6r0-0
-Link Demo : https://slicing-landing-page-nugget.vercel.app/
+Link Figma : https://www.figma.com/file/tnbMqn5eW9wtGzg9VYqv60/Landing-Page---Bananas-(Food)-(Community)?node-id=1%3A3&t=eYbxN4uQ9R71O6r0-0.
+Link Demo : https://slicing-landing-page-nugget.vercel.app/.
 
 ## Getting Started
 
